@@ -1,6 +1,0 @@
-* classificador de cores (lego)
-* jogo de xadrez
-* led cube
-* hexapod: https://create.arduino.cc/projecthub/tartrobotics/a-diy-hexapod-robot-with-arduino-lego-and-3d-printed-parts-78415b?ref=platform&ref_id=424_trending___&offset=0
-* resolvedor de cubo magico
-* "desenhador"
